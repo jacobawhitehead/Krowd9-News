@@ -1,0 +1,6 @@
+framework module Pods_Krowd9_News {
+  umbrella header "Pods-Krowd9 News-umbrella.h"
+
+  export *
+  module * { export * }
+}
